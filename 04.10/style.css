@@ -1,0 +1,29 @@
+p {
+    color:brown;
+}
+
+h1 p {
+    color:blueviolet;
+}
+
+select {
+    color:brown;
+}
+
+form {
+    display:flex;
+    flex-direction: column;
+}
+
+.input-padrao{
+    width: 195px;
+    padding: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.botao{
+    width: 195px;
+    padding: 4px;
+    color:rgb(151, 22, 22)
+    
+}
